@@ -1,6 +1,6 @@
 #!/bin/bash
 #Unfinished, uploading here so i can work on it later
-#This is for a lab/labs where PSW brute is too slow
+#This is for a lab and my tools brute are not optimal.
 echo 'enter the URL: '
 read url
 echo 'enter the cookie session: '
